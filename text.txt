@@ -1,0 +1,9 @@
+aller dans le dossier , et faire un git init
+
+- git status (voir ce qui ce passe dans le projet)
+
+on met notre dossiers dans le fichier
+
+- git add 'le fichier'
+
+- git commit --message"Raison du changement"

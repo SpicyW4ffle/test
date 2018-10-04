@@ -1,2 +1,2 @@
-ceci n'est pas un test
+ceci n'est pas un test.
 
